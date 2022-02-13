@@ -1,0 +1,21 @@
+title: HioBeen Han, Ph.D.
+description: Neuroscience & Cognitive sciences
+site_title: 'hiobeen_han@github_blog'
+
+# Build settings
+markdown: kramdown
+exclude: [vendor/ruby]
+
+# Personalization
+github_username: hiobeen-han
+blog_url: https://hiobeen-han.github.io
+email: hiobeen.han@kaist.ac.kr
+keybase_username: abhn
+twitter_username: hiobeen_han
+reddit_username: abhn
+
+# absolute or relative
+profile_picture: assets/images/pp.jpg
+
+# Google Analytics ID
+google_analytics: 

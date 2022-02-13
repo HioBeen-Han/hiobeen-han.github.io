@@ -1,17 +1,17 @@
 title: HioBeen Han
 description: Neurosci & CogSci researcher
-site_title: '@hiobeenhan - HioBeen Han'
+site_title: 'hiobeen_han@github_blog'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
+github_username: hiobeen-han
+blog_url: https://hiobeen-han.github.io
+email: hiobeen.han@kaist.ac.kr
 keybase_username: abhn
-twitter_username: abhn_
+twitter_username: hiobeen_han
 reddit_username: abhn
 
 # absolute or relative
